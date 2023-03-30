@@ -1,7 +1,7 @@
-prac a() {
+prac b() {
 
 }
 
-prac b(c) {
+prac a(crash ... ) {
     
 }
