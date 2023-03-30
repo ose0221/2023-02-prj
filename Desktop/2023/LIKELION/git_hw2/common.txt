@@ -1,7 +1,7 @@
-prac a() {
+prac a(충돌 생성 중...) {
 
 }
 
-prac b(c) {
-    
+prac b() {
+
 }
