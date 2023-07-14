@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+body{
+    background: #F1EBE9;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: Noto Sans Symbols;
+}
+
+.join-wrapper{
+    width: 60%;
+    height: auto;
+    border-radius: 35px;
+    background: rgba(247, 224, 163, 0.53);
+    margin: 55px auto 55px;
+    padding: 40px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.logo {
+    width: 250px;
+    margin-bottom:60px;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: left;
+    margin-left: 147px;
+    margin-bottom: 22px;
+}
+
+p {
+    text-align: left;
+    margin-left: 148px;
+    margin-bottom: 4px;
+}
+
+#name {
+    width: 313px;
+    height: 49px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border-width: 1px;
+    background-color: #F8F8F8;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+#id_email {
+    width: 313px;
+    height: 49px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border-width: 1px;
+    background-color: #F8F8F8;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+#id_username {
+    margin: auto;
+    width: 313px;
+    height: 49px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border-width: 1px;
+    background-color: #F8F8F8;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+#id_password1 {
+    margin: auto;
+    width: 313px;
+    height: 49px;
+    padding: auto;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border-width: 1px;
+    background-color: #F8F8F8;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+#id_password2 {
+    margin: auto;
+    width: 313px;
+    height: 49px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border-width: 1px;
+    background-color: #F8F8F8;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+label {
+    text-align: left;
+    display: block;
+    margin-top: 12px;
+    margin-left: 148px;
+}
+
+hr {
+    width: 80%;
+    height: 1px;
+    border: none;
+    background-color: #D4D4D4;
+    margin: 11px 0 22px 0;
+}
+
+#signup {
+    width: 313px;
+    height: 49px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border-width: 1px;
+    display: block;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    background-color: #4C8492;
+    border-style: none;
+    margin: 57px auto 0;
+}
