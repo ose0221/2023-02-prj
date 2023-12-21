@@ -1,0 +1,26 @@
+.Start {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logo {
+    margin: 40% 12% 0% 12%;
+    width: 76%;
+}
+
+.btn1 {
+    margin: 15% 18% 0% 18%;
+    width: 64%;
+}
+
+.btn2 {
+    margin: 5% 18% 0% 18%;
+    width: 64%;
+}
+
+.btn3 {
+    margin: 5% 18% 0% 18%;
+    width: 64%;
+}
