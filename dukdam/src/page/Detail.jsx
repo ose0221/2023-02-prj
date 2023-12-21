@@ -1,5 +1,5 @@
-import React from "react";
+import Comment from "../components/Detail/Comment";
 
 export default function Detail() {
-    return <div>여기가 상세 페이지</div>;
+    return <Comment />;
 }
